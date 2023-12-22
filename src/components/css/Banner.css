@@ -1,0 +1,36 @@
+
+ h1 {
+    color: rgb(252, 252, 252);
+    font-size: 3rem;
+    font-weight: 600;
+    text-align: left;
+}
+@media (max-width: 1600px) {
+
+    .Banner {
+        padding: 6.875rem 0 3.375rem;
+    }
+}
+@media (max-width: 991px) {
+    .Banner {
+        padding: 6.875rem 0 3.375rem;
+    }
+
+    .Banner h1 {
+        color: white;
+        font-size: 2rem;
+        font-weight: 600;
+        text-align: center;
+        background-color: rgb(45, 147, 219);
+        padding: 0.7rem 0;
+    }
+}
+@media (max-width: 450px) {
+    .Banner {
+        padding: 6.875rem 0 3.375rem;
+    }
+
+    .Banner-cont h1 {
+        font-size: 1.5rem;
+    }
+}

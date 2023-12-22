@@ -1,0 +1,48 @@
+.navbar {
+    background-color: rgb(243, 243, 255);
+}
+
+.nav-item {
+    padding-inline: 0.8rem;
+}
+
+.nav-item span {
+    color: red;
+}
+
+.nav-item i {
+    font-size: 1.22rem;
+    color: rgb(45, 147, 219);
+    padding: 0;
+    margin: 0;
+}
+.nav-item a {
+    font-size: 1rem;
+    color: rgb(45, 147, 219);
+    padding: 0;
+    margin: 0;
+}
+.line {
+    width: 1px;
+    background-color: rgb(128, 153, 172);
+    height: 27px;
+}
+
+.logo {
+    width: 300px;
+    height: 70px;
+}
+
+@media (max-width: 991px) {
+    .navbar-collapse {
+        text-align: left;
+    }
+
+    .navbar-nav .line {
+        display: none;
+    }
+
+    .nav-item a {
+        font-size: 1.25rem;
+    }
+}

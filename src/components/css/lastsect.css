@@ -1,0 +1,517 @@
+.last{
+    padding: 5.34rem;
+    background-color: rgb(243, 246, 249);
+    text-align: center
+}
+
+.last .diffic{
+    background-color: white;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    color: black;
+    font-weight: 600;
+    padding-top: 25px;
+    font-size: 20px;
+}
+
+.last .last-sect1{
+    width: 350px;
+    margin: 20px;
+}
+.last .diffic12{
+    right: 47%;
+    margin-top: 30px;
+}
+
+.last .last-section h5{
+    color: rgb(10, 103, 153);
+    font-weight: 600;
+    padding: 0.445rem 16.34rem ;
+
+}
+.last .last-section h3{
+    color: rgb(215, 27, 27);
+    font-weight: 600;
+}
+.last .last-sect12{
+    background-color: rgb(45, 147, 219);
+    color: white;
+    padding: 1rem;
+    border-radius: 7px;
+    height: 150px;
+
+}
+.last .last-sect12 .Top-content p{
+   text-align: left;
+   font-size: 20px;
+   font-weight: 200;
+}
+.last .last-sect12 p span{
+   font-weight: 600;
+   font-size: 18px;
+ }
+.last .last-sect12 i{
+   font-size: 2.5rem;
+}
+
+.last .lastsec p {
+    text-align: left;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.last .arrow-last i{
+    position: relative;
+    top: 36px;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+}
+
+@media (max-width: 1600px) {
+    .last .last-sect12 {
+        padding-left: 10px;
+    }
+
+    .last .last-sect12 p span {
+        font-weight: 600;
+        font-size: 1.32rem
+    }
+
+    .last .last-sect12 i {
+        font-size: 2.8rem;
+    }
+
+    .last .lastsec p {
+        padding-top: 10px;
+        text-align: left;
+        font-size: 0.9rem;
+    }
+
+    .last .arrow-last i {
+        position: relative;
+        top: 29px;
+        font-size: 20px;
+    }
+
+    .last .last-sect12 .Top-content p {
+        font-size: 1.52rem;
+        letter-spacing: 1px;
+        font-weight: 400;
+    }
+
+    .last .last-section h3 {
+        padding-bottom: 23px;
+
+    }
+}
+@media (max-width: 1400px) {
+    .last .last-sect12 p span {
+        font-weight: 600;
+        font-size: 1rem
+    }
+
+    .last .last-sect12 i {
+        font-size: 2.8rem;
+    }
+    .last .arrow-last i {
+        font-size: 18px;
+    }
+    .last .lastsec p {
+        text-align: center;
+        font-size: 1rem;
+    }
+}
+@media (max-width: 1240px) {
+    .last .last-sect12 .Top-content p{
+        text-align: left;
+        font-size: 17px;
+        font-weight: 200;
+        font-weight: 600;
+     }
+     .last .last-sect12 i{
+        font-size: 1.99rem;
+     }
+     .last .last-sect12 p span{
+        font-weight: 600;
+        font-size: 17px;
+      }
+      .last .arrow-last i{
+        font-size: 18px;
+    }
+    .last .diffic12{
+        right: 47%;
+        margin-top: 34px;
+        
+    }
+}
+@media (max-width:  1197px) {
+    .last .last-sect12 .Top-content p{
+        text-align: left;
+        font-size: 19px;
+        font-weight: 400;
+     }
+     .last .last-sect12 p span{
+        font-weight: 600;
+        font-size: 14px;
+      }
+      .last .lastsec p {
+        padding-top: 0;
+        
+    }
+}
+
+@media (max-width: 1024px) {
+    .last .last-sect12 {
+        padding-left: 8px;
+    }
+    .last .last-sect12 p span {
+        font-weight: 600;
+        font-size: 1.234rem
+    }
+
+    .last .last-sect12 i {
+        font-size: 1.9rem;
+    }
+
+    .last .lastsec p {
+        padding-top: 0px;
+        text-align: center;
+        font-size: 1.05rem;
+    }
+
+    .last .arrow-last i {
+        position: relative;
+        top: 26px;
+        font-size: 19px;
+    }
+    .last .diffic12{
+        right: 46%;
+        
+    }
+    .last .form-control{
+        margin-left: 5px;
+        margin-bottom: 0 !important;
+    }
+    .last .last-sect12 .Top-content p {
+        font-size: 1.04rem;
+        letter-spacing: 1px;
+        font-weight: 400;
+    }
+
+    .last .last-section h3 {
+        padding-bottom: 23px;
+
+    }
+}
+@media (max-width: 991px) {
+    .last .last-section h5 {
+        color: rgb(10, 103, 153);
+        font-weight: 600;
+        padding: 2.44rem 4.34rem;
+}
+
+    .last .last-section h3 {
+        padding-bottom: 23px;
+
+    }
+
+    .last .last-sect12 {
+        padding-left: 10px;
+    }
+
+    .last .last-sect12 p span {
+        font-weight: 600;
+        font-size: 1.2rem
+    }
+
+    .last .last-sect12 i {
+        font-size: 2.5rem;
+    }
+
+    .last .lastsec p {
+        text-align: center;
+        font-size: 1.12rem;
+    }
+
+    .last .arrow-last i {
+        font-size: 20px;
+        position: relative;
+        top: 29px;
+    }
+
+    .last .last-sect12 .Top-content p {
+        font-size: 1.32rem;
+        letter-spacing: 1px;
+        font-weight: 400;
+    }
+    .last {
+        padding: 0.34rem;
+    }
+}
+
+@media (max-width: 800px) {
+
+    .last .last-sect12 {
+        padding-left: 10px;
+    }
+    
+    .last .last-sect12 p span {
+        font-size: 1.29rem
+    }
+    
+    .last .last-sect12 i {
+        font-size: 2.8rem;
+    }
+    
+    .last .lastsec p {
+        text-align: center;
+        font-size: 1.15rem;
+    }
+    
+    .last .arrow-last i {
+        position: relative;
+        top: 30px;
+        font-size: 18px;
+    }
+    
+    .last .last-sect12 .Top-content p {
+        font-size: 1.52rem;
+    }
+     }
+
+     @media (max-width: 820px) {
+
+        .last .last-sect12 {
+            padding-left: 0px;
+        }
+        .last .diffic12{
+            right: 45%;
+            margin-top: 34px;
+            
+        }
+        .last .last-sect12 p span {
+            font-size: 1rem
+        }
+        
+        .last .last-sect12 i {
+            font-size: 2.9rem;
+        }
+        
+        .last .lastsec p {
+            font-size: 1.1rem;
+        }
+        .last .lastsec{
+            padding-left: 10px;
+        }
+        
+        .last .arrow-last i {
+            top: 30px;
+            font-size: 20px;
+        }
+        }
+        
+@media (max-width: 770px) {
+  
+    .last .diffic12{
+        right: 45%;
+        margin-top: 34px;
+        
+    }
+    .last .last-sect12 p span {
+        font-size: 1rem
+    }
+    
+    .last .last-sect12 i {
+        font-size: 2.9rem;
+    }
+    
+    .last .lastsec p {
+        font-size: 1.1rem;
+    }
+    .last .lastsec{
+        padding-left: 10px;
+    }
+    
+    .last .arrow-last i {
+        top: 30px;
+        font-size: 20px;
+    }
+    
+    }
+    @media (max-width: 764px) {
+        .last .last-sect12 {
+            padding-left: 17px;
+        }
+        
+        .last .last-sect12 p span {
+            font-size: 1.3rem
+        }
+        
+        .last .last-sect12 i {
+            font-size: 2.5rem;
+        }
+        
+        .last .lastsec p {
+            font-size: 1.1rem;
+        }
+        
+        .last .arrow-last i {
+            position: relative;
+            top: 30px;
+            font-size: 20px;
+        }
+        
+        .last .last-sect12 .Top-content p {
+            font-size: 1.52rem;
+        }
+    }
+    @media (max-width: 680px) {
+        .last .last-sect12 {
+            padding-left: 7px;
+        }
+        
+        .last .last-sect12 p span {
+            font-size: 1rem
+        }
+        
+        .last .last-sect12 i {
+            font-size: 2rem;
+        }
+        
+        .last .lastsec p {
+            font-size: 1rem;
+        }
+        
+        .last .arrow-last i {
+            position: relative;
+            top: 25px;
+            font-size: 20px;
+        }
+        
+        .last .last-sect12 .Top-content p {
+            font-size: 1.2rem;
+        }
+        .last .diffic12{
+            right: 44%;
+            margin-top: 34px;
+            
+        }
+     }
+     @media (max-width: 580px) {
+        .last .last-sect12 {
+            padding-left: 5px;
+        }
+        
+        .last .last-sect12 p span {
+            font-size: 0.8rem
+        }
+        
+        .last .last-sect12 i {
+            font-size: 1.5rem;
+        }
+        
+        .last .lastsec p {
+            font-size: 0.95rem;
+        }
+        
+        .last .arrow-last i {
+            position: relative;
+            top: 20px;
+            font-size: 20px;
+        }
+        
+        .last .last-sect12 .Top-content p {
+            font-size: 1rem;
+        }
+        .last .diffic12{
+            right: 43%;
+            margin-top: 34px;
+            
+        }
+     }
+     
+ @media (max-width: 540px) {
+    .last .last-sect{
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+    }
+    .last .last-sect12 {
+        padding-left: 10px;
+    }
+
+    .last .last-sect12 p span {
+        font-weight: 600;
+        font-size: 1.32rem
+    }
+
+    .last .last-sect12 i {
+        font-size: 2.6rem;
+    }
+
+    .last .lastsec p {
+        padding-top: 10px;
+        text-align: left;
+        font-size: 1rem;
+    }
+
+    .last .arrow-last i {
+        position: relative;
+        top: 34px;
+        font-size: 20px;
+    }
+    .last .diffic12{
+        right: 43%;
+        margin-top: -74px;
+    }
+
+    .last .last-sect12 .Top-content p {
+        font-size: 1.42rem;
+        letter-spacing: 1px;
+        font-weight: 400;
+    }
+
+ }
+
+ @media (max-width: 490px) {
+       
+.last .last-sect12 {
+    padding-left: 70px;
+}
+
+.last .arrow-last i {
+    position: relative;
+    top: 47px;
+    font-size: 20px;
+}
+ }
+
+ @media (max-width: 380px) {
+
+    .last .last-sect12 {
+        padding-left: 5px;
+    }
+    
+    .last .last-sect12 p span {
+        font-size: 1rem
+    }
+    
+    .last .last-sect12 i {
+        font-size: 2.9rem;
+    }
+    
+    .last .lastsec p {
+        font-size: 1.1rem;
+    }
+    .last .lastsec{
+        padding-left: 10px;
+    }
+    
+    .last .arrow-last i {
+        top: 34px;
+        font-size: 20px;
+    }
+
+ }

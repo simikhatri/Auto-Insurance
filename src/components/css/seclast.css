@@ -1,0 +1,39 @@
+.sec-last .sec-last-cont{
+    padding-top: 5.875rem;
+  }
+  .sec-last .sec-last-Heading{
+     color: rgb(45, 147, 219);
+    }
+  
+    .sec-last .accordion-item {
+      background-color: transparent;
+      border: none;
+  }
+  
+  .sec-last  .accordion-body {
+      text-align: justify;
+      font-size: 13px;
+      color: rgb(47, 44, 44);
+  }
+  
+  .sec-last  .accordion-header .accordion-button {
+      background-color: rgb(251, 251, 255);
+      border-radius: unset;
+      color:rgb(0, 0, 0);
+  }
+  .sec-last .accordion-header .accordion-button:active,
+  .sec-last  .accordion-header .accordion-button:focus {
+      background-color: rgb(10, 103, 153);
+      border: none;
+      color: white;
+  }
+
+  @media (max-width: 991px) {
+    .sec-last .sec-last-img {
+        display: none;
+    }
+
+    .sec-last .sec-last-cont {
+        text-align: center;
+    }
+  }

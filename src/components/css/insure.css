@@ -1,0 +1,131 @@
+
+ .container-fluid{
+    padding: 0;
+    width: 100%;
+    overflow: hidden;
+}
+
+.Insurance .Insurance-Heading {
+    font-size: 2rem;
+    font-weight: 600;
+    color: white;
+    padding: 0;
+}
+
+.accordion .accordion-item {
+    background-color: transparent;
+    border: none;
+    border-top: 1px solid rgb(185, 220, 239);
+}
+
+.accordion .accordion-body {
+    text-align: justify;
+    font-size: 13px;
+    color: rgb(223, 216, 216);
+}
+
+.accordion .accordion-header .accordion-button {
+    background-color: transparent;
+    border-radius: 0;
+    border: none;
+    color: white;
+}
+
+.accordion .accordion-header .accordion-button:active,
+.accordion .accordion-header .accordion-button:focus {
+    background-color: rgb(156, 200, 223);
+}
+
+.accordion .accordion-header {
+    border-radius: unset;
+    border-top: 1px solid rgb(185, 220, 239);
+    padding: 0;
+    margin: 0;
+}
+
+.accordion-item .Main-Btn {
+    width: 180px;
+    padding: 8px 0px;
+    margin: 9px;
+    font-size: 14px;
+    font-weight: 600;
+    background-color: rgb(255, 255, 255);
+    color: rgb(243, 3, 3);
+}
+
+.accordion-item .Main-Btn:hover {
+
+    background-color: rgb(255, 255, 255);
+    color: rgb(243, 3, 3);
+}
+
+.accordion-item .accordion-info {
+    color: white;
+    font-weight: 600;
+}
+
+.Insurance .Insurance-para {
+    border-left: 2px solid rgb(0, 0, 0);
+    padding: 1.675rem;
+    font-size: 13px;
+    color: rgb(225, 224, 224);
+}
+
+.Insurance .Insurance-img {
+    padding-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Insurance .Insurance-img img {
+    width: 100%;
+    height: 335px;
+}
+
+@media (max-width: 1024px) {
+    .accordion-item .Main-Btn {
+        width: 145px;
+        margin: 2px;
+        font-size: 13px;
+    }
+    .accordion-item .accordion-info {
+        font-size: 14px;
+    }
+    
+}
+@media (max-width: 991px) {
+    .Insurance .Insurance-img {
+        display: none;
+    }
+
+    .Insurance-flx {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .Insurance .container {
+        margin: 0;
+        padding: 0;
+    }
+
+    .Insurance .Insurance-para {
+        border-left: none;
+
+    }
+}
+@media (max-width: 416px) {
+       
+    .accordion-item .Main-Btn {
+        width: 160px;
+        margin: 7px;
+        font-size: 13px;
+        font-weight: 600;
+    }
+    .accordion-item .accordion-info {
+        color: white;
+        font-weight: 600;
+        font-size: 14px;
+    }
+}

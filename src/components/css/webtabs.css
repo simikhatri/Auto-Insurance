@@ -1,0 +1,184 @@
+/* Web-Pins css */
+.Web-Pins {
+    padding-top: 4.23rem;
+}
+
+.Web-Pins .pins-Heading {
+    font-size: 2rem;
+    font-weight: 600;
+    color: rgb(45, 147, 219);
+    padding: 0;
+}
+
+.Web-Pins .pins-para {
+    border-left: 2px solid rgb(45, 147, 219);
+    font-size: 15px;
+}
+.big-cont{
+    background-color:  rgb(243, 243, 255);
+}
+.web-Tabs {
+   margin-top: 1rem;
+   padding-bottom: 3rem;
+}
+
+.web-Tabs .nav-items {
+    width: 300px;
+    text-align: center;
+}
+
+.web-Tabs .nav-link {
+    padding: 10px;
+    width: 100%;
+}
+.web-Tabs .nav-items button{
+    border: none;
+    border-radius: 0;
+    outline: none;
+    color: white;
+}
+
+.web-Tabs .nav-link:hover {
+   
+    color: rgb(0, 4, 6);
+}
+
+.web-Tabs .nav-item3 {
+    background-color: rgb(200, 11, 11);
+}
+
+.web-Tabs .nav-item2 {
+    background-color: rgb(45, 147, 219);
+}
+
+.web-Tabs .nav-item1 {
+    background-color: rgb(45, 147, 219);
+}
+
+.web-Tabs .nav-link:active {
+    color: rgb(45, 147, 219);
+    background-color: white;
+    border-radius: unset;
+}
+
+.tab-content .step{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    text-align: center;
+}
+.tab-content .step img{
+    width: 300px;
+}
+@media (max-width: 1600px) {
+
+    .web-Tabs .nav-items {
+        width: 350px;
+        text-align: center;
+    }
+
+    .tab-content .step img {
+        width: 350px;
+    }
+
+    .tab-content .step p {
+        font-size: 20px;
+    }
+}
+@media (max-width: 1400px) {
+    .web-Tabs .nav-items {
+        width: 300px;
+    }
+    .tab-content .step img {
+        width: 300px;
+    }
+}
+
+@media (max-width:  1197px) {
+    .web-Tabs .nav-items {
+        width: 250px;
+        text-align: center;
+    }
+    .tab-content .step img {
+        width: 250px;
+    }
+}
+@media (max-width: 991px) {
+    .Web-Pins .pins-para {
+         border-left: none;
+         text-align: center;
+ 
+     }
+     .Web-Pins .pins-Heading {
+         text-align: center;
+ 
+     }
+     .web-Tabs .nav-items {
+         width: 203px;
+         text-align: center;
+     }
+     .tab-content .step img {
+         width: 203px;
+     }
+     .tab-content .step p {
+         font-size: 13px;
+     }
+ }
+ 
+ @media (max-width: 764px) {
+    .web-Tabs .nav-items {
+     width: 160px;
+     text-align: center;
+ }
+ .tab-content .step img {
+     width: 170px;
+ }
+ }
+ @media (max-width: 490px) {
+     .web-Tabs .nav-items {
+         width: 140px;
+         text-align: center;
+     }
+     .tab-content .step img {
+         width: 140px;
+     }
+     .tab-content .step p {
+         font-size: 11px;
+     }
+ }
+ 
+@media (max-width: 416px) {
+    .web-Tabs .nav-items {
+        width: 110px;
+        text-align: center;
+    }
+    
+    .tab-content .step img {
+        width: 140px;
+    }
+    .tab-content .step p {
+        font-size: 11px;
+    }
+   }
+   @media (max-width: 450px) {
+    .web-Tabs .nav-items {
+         width: 110px;
+     }
+ 
+     .tab-content .step img {
+         width: 170px;
+     }
+ 
+     .tab-content .step p {
+         font-size: 11px;
+     }
+ }
+ @media (max-width: 380px) {
+    .web-Tabs .nav-items {
+        width: 103px;
+    }
+
+    .tab-content .step img {
+        width: 150px;
+    }
+}
