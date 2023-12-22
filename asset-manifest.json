@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Auto-Insurance/static/css/main.1abca330.css",
+    "main.js": "/Auto-Insurance/static/js/main.21bd5476.js",
+    "static/js/787.aabd85d5.chunk.js": "/Auto-Insurance/static/js/787.aabd85d5.chunk.js",
+    "static/media/FAQ.jpg": "/Auto-Insurance/static/media/FAQ.8dcd4508843178fd8a1c.jpg",
+    "static/media/Auto-insurance-banner.jpg": "/Auto-Insurance/static/media/Auto-insurance-banner.67d02fe731da4d9241f6.jpg",
+    "static/media/Why-Should-You-Choose-Illinois-Drivers.jpg": "/Auto-Insurance/static/media/Why-Should-You-Choose-Illinois-Drivers.adb86c7f099c1651de3c.jpg",
+    "static/media/quick.png": "/Auto-Insurance/static/media/quick.d4bbc82b93a61b76bfa1.png",
+    "static/media/quick22.jpg": "/Auto-Insurance/static/media/quick22.8c94b620ef28184195eb.jpg",
+    "static/media/testimonials.jpg": "/Auto-Insurance/static/media/testimonials.7d8b3b62ab032f5a754e.jpg",
+    "static/media/Locations.jpg": "/Auto-Insurance/static/media/Locations.607939a70c84414808db.jpg",
+    "static/media/Car-Insurance-Process-3.jpg": "/Auto-Insurance/static/media/Car-Insurance-Process-3.90355587ddd34c424bad.jpg",
+    "static/media/Car-Insurance-Process-2.jpg": "/Auto-Insurance/static/media/Car-Insurance-Process-2.4545c76989cea3872ee8.jpg",
+    "static/media/Car-Insurance-in-Illinois.jpg": "/Auto-Insurance/static/media/Car-Insurance-in-Illinois.537866c3ac5ca66fb02a.jpg",
+    "static/media/Car-Insurance-Process-1.jpg": "/Auto-Insurance/static/media/Car-Insurance-Process-1.7a5cbc3aba869b315217.jpg",
+    "static/media/illinoisdriver-updated.png": "/Auto-Insurance/static/media/illinoisdriver-updated.16be743c7edbdbed57d8.png",
+    "static/media/profile.jpg": "/Auto-Insurance/static/media/profile.2016d4da741f78e6704b.jpg",
+    "index.html": "/Auto-Insurance/index.html",
+    "main.1abca330.css.map": "/Auto-Insurance/static/css/main.1abca330.css.map",
+    "main.21bd5476.js.map": "/Auto-Insurance/static/js/main.21bd5476.js.map",
+    "787.aabd85d5.chunk.js.map": "/Auto-Insurance/static/js/787.aabd85d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1abca330.css",
+    "static/js/main.21bd5476.js"
+  ]
+}
